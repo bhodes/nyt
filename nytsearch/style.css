@@ -1,0 +1,18 @@
+.search-parameters{
+    border: 2px grey
+}
+
+header{
+    background-color: grey
+}
+
+h1 {
+    text-align: center;
+    color: white
+
+}
+
+.jumbotron {
+    color: white;
+    background-color: navy
+}
